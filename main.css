@@ -1,4 +1,4 @@
-/* * {
+* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -70,8 +70,8 @@ nav ul li .special {
     background:#3041c5;
     font-size: 16px;
     color: white;
-} */
-.main-area {
+}
+/* .main-area {
     /* display: grid;
     grid-template-columns: 50% 50%; */
     padding: 100px 40px;
@@ -113,7 +113,7 @@ nav ul li .special {
     max-width: 700px;
     float: left;
     margin-left: 180px;
-}
+} */
 @media only screen and (max-width: 850px) {
     header nav{
         display: none;
