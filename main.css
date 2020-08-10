@@ -79,6 +79,14 @@ ul{
     opacity: 0.9;    
 }
 
+.white {
+    background: #fff;
+    color:#2f40c4;
+}
+
+hr {
+    border-color: #262626;
+}
 
 .display {
     display: grid;
@@ -91,7 +99,7 @@ ul{
     font-family: Arial, Helvetica, sans-serif;
 }
 .display p, dark {
-    color: #262626;
+    color: #4a4144;
     margin-top: 20px;
     line-height: 1.5;
 }
